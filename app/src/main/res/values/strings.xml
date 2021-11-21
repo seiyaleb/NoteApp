@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">note記事検索アプリ</string>
+    <string name="bt_search">検索</string>
+    <string name="bt_return">戻る</string>
+    <string-array name="creator_array">
+        <item>れぶ</item>
+        <item>どすこいさん</item>
+        <item>Ryoさん</item>
+        <item>Naoya Kannukiさん</item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
